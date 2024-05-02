@@ -9,12 +9,12 @@ YOLO model: [Click here to download](https://drive.google.com/file/d/14ufVFdTUgY
 ## Setup
 Move pretrained models to `\models`
 ```
+cd Violence-Detection
 mv yolo.h5 \models
 mv openpose.h5 \models
 ```
 
 ```
-cd Violence-Detection
 pip install -r requirements.txt
 ```
 
