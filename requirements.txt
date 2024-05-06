@@ -4,7 +4,7 @@ pillow
 matplotlib
 opencv-contrib-python
 scikit-learn
-tensorflow
+tensorflow==2.15
 keras
 configobj
 tqdm
